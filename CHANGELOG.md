@@ -7,6 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.2](https://github.com/datafusion-contrib/datafusion-materialized-views/compare/v0.1.1...v0.1.2) - 2025-01-08
+
+### Added
+- `Decorator` trait (#26) (by @suremarc) - #26
+
+### Other
+- use nanosecond timestamps in file metadata ([#28](https://github.com/datafusion-contrib/datafusion-materialized-views/pull/28)) (by @suremarc) - #28
+
+### Contributors
+
+* @suremarc
+
 ## [0.1.1](https://github.com/datafusion-contrib/datafusion-materialized-views/compare/v0.1.0...v0.1.1) - 2025-01-07
 
 ### Added
